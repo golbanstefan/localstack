@@ -22,8 +22,8 @@
        aws_secret_access_key=test
        output = json
        region = eu-west-2
-    ```
-
+       ```
+  
 - Check if the lambda exist with aws cli ```awslocal --profile localstack  lambda list-functions --max-items 10```
 
 - Invoke the
