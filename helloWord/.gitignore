@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+response.json
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
+./artefacts/*
+artefacts
